@@ -23,4 +23,4 @@ This ToDo web app is build using React and TailwindCSS. Using this app we can cr
 
 ## Below is gif of project
 
-![Alt text](/relative/images/todo-gif.gif?raw=true "Optional Title")
+![Alt text](/images/todo-gif.gif?raw=true "Optional Title")
