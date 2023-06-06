@@ -21,6 +21,6 @@ This ToDo web app is build using React and TailwindCSS. Using this app we can cr
     ```
 1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view this project.
 
-## Contributing
+## Below is gif of project
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/relative/images/todo-gif.gif?raw=true "Optional Title")
